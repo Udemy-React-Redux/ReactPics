@@ -1,5 +1,5 @@
 # Pics
-<a href="reactpictures.netlify.app">Live version</a> \
+<a href="https://reactpictures.netlify.app">Live version</a> \
 Simple application that lets users search unsplash.com for images. \
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
